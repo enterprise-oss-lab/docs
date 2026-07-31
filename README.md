@@ -18,6 +18,7 @@
 - Hashicorp Vault
 - OpenTelemetry
 - Grafana
+- Apache Flink
 
 ### Kubernetes
 
