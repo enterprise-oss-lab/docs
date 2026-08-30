@@ -14,21 +14,25 @@
 ## 対象 OSS
 
 - Kubernetes
-- Apache Kafka
+- ✅ Apache Kafka
 - Hashicorp Vault
-- OpenTelemetry
-- Grafana
+- ✅ OpenTelemetry
+- ✅ Grafana
 - Apache Flink
+- RustFS
+- Redis
 
 ### Kubernetes
+
+- [ikuya-kubernetes-handson](https://github.com/enterprise-oss-lab/ikuya-kubernetes-handson)
 
 ### Apache Kafka
 
 - [mnonaka-kafka-python-getting-started](https://github.com/enterprise-oss-lab/mnonaka-kafka-python-getting-started)
-### Apache Kafka
+- [ikuya-kafka-youtube-handson](https://github.com/enterprise-oss-lab/ikuya-kafka-youtube-handson)
 
 ### Hashicorp Vault
 
-### OpenTelemetry
+### OpenTelemetry / Grafana
 
-### Grafana
+- [otel-getting-started-go](https://github.com/enterprise-oss-lab/otel-getting-started-go)
